@@ -9,7 +9,7 @@ $this->load->library('zend');
 >Load helper<br>
 $this->load->helper('barcode');
 
-```
+```php
 generate_barcode('code128','1234567890')
 ```
 
