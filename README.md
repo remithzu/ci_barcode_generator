@@ -2,7 +2,7 @@
 This is a barcode component of the Zend Framework modified for the Codeigniter libraries. This is made to be easier to use on codeigniter and easier to generate barcode.
 
 ### How to use
->Load library
+>Load library<br>
 $this->load->library('zend');
 
 
